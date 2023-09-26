@@ -1,0 +1,207 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "Drama",
+      "id": 4
+    },
+    {
+      "nome": "Suspense",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "nome": "Tecnologia"
+    },
+    {
+      "id": 7,
+      "nome": "Romance"
+    },
+    {
+      "id": 8,
+      "nome": "Infantil"
+    },
+    {
+      "id": 9,
+      "nome": "Terror"
+    },
+    {
+      "id": 11,
+      "nome": "Espiritualida e Religioso"
+    },
+    {
+      "id": 12,
+      "nome": "Fantasia"
+    },
+    {
+      "id": 14,
+      "nome": "Biografia"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "Capitães da Areia",
+      "autor": "Jorge Amado",
+      "anoPublicacao": 1937,
+      "isbn": "978-85-3591-406-1",
+      "disponivel": true,
+      "categoriaId": 7
+    },
+    {
+      "id": 5,
+      "titulo": "O Cabelo de Lelê",
+      "autor": "Valéria Belém",
+      "anoPublicacao": 2012,
+      "isbn": "978-85-342-3208-1",
+      "disponivel": false,
+      "categoriaId": 8
+    },
+    {
+      "id": 6,
+      "titulo": "Exu Não É Diabo",
+      "autor": "Alexandre Cumino",
+      "anoPublicacao": 2022,
+      "isbn": "978-85-342-3208-1",
+      "disponivel": false,
+      "categoriaId": 11
+    },
+    {
+      "id": 7,
+      "titulo": "It- A coisa",
+      "autor": "Stephen King",
+      "anoPublicacao": 2014,
+      "isbn": "978-85-602-8094-0",
+      "disponivel": true,
+      "categoriaId": 9
+    },
+    {
+      "id": 8,
+      "titulo": "A Cúpula do Prazer",
+      "autor": "Craig Enger",
+      "anoPublicacao": 2023,
+      "isbn": "978-16-6745-583-9",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 9,
+      "titulo": "Marina",
+      "autor": "Carlos Ruiz Zafón",
+      "anoPublicacao": 2011,
+      "isbn": "978-85-810-5016-4",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 11,
+      "titulo": "Quincas Borba",
+      "autor": "Machado de Assis",
+      "anoPublicacao": 2019,
+      "isbn": "978-85-717-5114-9",
+      "disponivel": true,
+      "categoriaId": 7
+    },
+    {
+      "id": 12,
+      "titulo": "Código Limpo",
+      "autor": "Robert C. Martin",
+      "anoPublicacao": 2009,
+      "isbn": "978-85-760-8267-5",
+      "disponivel": true,
+      "categoriaId": 6
+    },
+    {
+      "id": 13,
+      "titulo": "O Guarani",
+      "autor": "José de Alencar",
+      "anoPublicacao": 1857,
+      "isbn": "978-85-0815-732-7",
+      "disponivel": true,
+      "categoriaId": 7
+    },
+    {
+      "id": 14,
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "anoPublicacao": 1857,
+      "isbn": "0-385-50420-9",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 15,
+      "titulo": "Sapiens- Uma Breve História da Humanidade",
+      "autor": "Yuval Harari",
+      "anoPublicacao": 2011,
+      "isbn": "978-85-254-3218-6",
+      "disponivel": true,
+      "categoriaId": 3
+    },
+    {
+      "id": 16,
+      "titulo": "A Guerra dos Tronos",
+      "autor": "George R. R. Martin",
+      "anoPublicacao": 1996,
+      "isbn": "978-85-565-1078-5",
+      "disponivel": true,
+      "categoriaId": 12
+    },
+    {
+      "id": 17,
+      "titulo": "Eu, Christiane F. - 13 Anos, Drogada e Prostituida",
+      "autor": "Christiane F.",
+      "anoPublicacao": 1978,
+      "isbn": "978-85-779-9234-8",
+      "disponivel": true,
+      "categoriaId": 14
+    },
+    {
+      "id": 18,
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "anoPublicacao": 1945,
+      "isbn": "978-85-359-0955-5",
+      "disponivel": true,
+      "categoriaId": 1
+    }
+  ]
+}
